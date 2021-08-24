@@ -1,0 +1,4 @@
+load rabbit.png
+pattern 10
+export 10.txt
+quit

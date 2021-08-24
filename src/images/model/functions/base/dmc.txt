@@ -1,0 +1,36 @@
+209,Lavender Dark,163,123,167
+210,Lavender Medium,195,159,195
+320,Pistachio Green Medium,105,136,90
+333,Blue Violet Very Dark,92,84,120
+340,Blue Violet Medium,173,167,199
+435,Brown Very Light,184,119,72
+436,Tan,203,144,81
+498,Red Dark,167,19,43
+552,Violet Medium,128,58,107
+602,Cranberry Medium,226,72,116
+603,Cranberry,255,164,190
+605,Cranberry Very Light,255,192,205
+699,Green,5,101,23
+712,Cream,255,251,239
+726,Topaz Light,253,215,85
+738,Tan Very Light,236,204,158
+739,Tan Ultra Very Light,248,228,200
+741,Tangerine Medium,255,163,43
+742,Tangerine Light,255,191,87
+744,Yellow Pale,255,231,147
+783,Topaz Medium,206,145,36
+796,Royal Blue Dark,17,65,109
+809,Delft Blue,148,168,198
+815,Garnet Medium,135,7,31
+817,Coral Red Very Dark,187,5,31
+827,Blue Very Light,189,221,237
+838,Beige Brown Very Dark,89,73,55
+930,Antique Blue Dark,69,92,113
+931,Antique Blue Medium,106,133,158
+995,Electric Blue Dark,38,150,182
+996,Electric Blue Medium,48,194,236
+3051,Green Gray Dark,95,102,72
+3326,Rose Light,251,173,180
+3347,Yellow Green Medium,113,147,92
+3348,Yellow Green Light,204,217,177
+3371,Black Brown,30,17,8

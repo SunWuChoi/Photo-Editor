@@ -1,0 +1,25 @@
+10 x 7
+
+N N N N N N N H E E 
+N I N N D A N I I I 
+N J I I E F B N I N 
+I I I K M F K K K K 
+I I I I K B K K N K 
+I I K I M L M I I I 
+N N I I G C A I I I 
+
+LEGEND
+A 209 Lavender Dark 163 123 167 
+B 210 Lavender Medium 195 159 195 
+C 340 Blue Violet Medium 173 167 199 
+D 435 Brown Very Light 184 119 72 
+E 712 Cream 255 251 239 
+F 739 Tan Ultra Very Light 248 228 200 
+G 809 Delft Blue 148 168 198 
+H 827 Blue Very Light 189 221 237 
+I 838 Beige Brown Very Dark 89 73 55 
+J 930 Antique Blue Dark 69 92 113 
+K 3051 Green Gray Dark 95 102 72 
+L 3347 Yellow Green Medium 113 147 92 
+M 3348 Yellow Green Light 204 217 177 
+N 3371 Black Brown 30 17 8 
