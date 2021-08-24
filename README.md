@@ -69,7 +69,7 @@ Caution: CMD or shell commands may differ for different operating systems.
 
 1. Opened the program in interactive mode
 
-![](Res/Screenshots/1_Nothing_loaded.png?raw=true "Interactive Mode")
+![image](Res/Screenshots/1_Nothing_loaded.png?raw=true "Interactive Mode")
 
 2. Loaded rabbit.png by File -> Open -> rabbit.png
 
