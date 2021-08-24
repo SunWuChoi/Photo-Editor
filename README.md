@@ -69,39 +69,39 @@ Caution: CMD or shell commands may differ for different operating systems.
 
 1. Opened the program in interactive mode
 
-![](Screenshots/1_Nothing_loaded.png)
+![](Res/Screenshots/1_Nothing_loaded.png)
 
 2. Loaded rabbit.png by File -> Open -> rabbit.png
 
-![](Screenshots/2_Original_Image.png)
+![](Res/Screenshots/2_Original_Image.png)
 
 3. Applied grey scale by Edit -> Grey
 
-![](Screenshots/3_Grey_applied.png)
+![](Res/Screenshots/3_Grey_applied.png)
 
 4. Applied sepia by Edit -> Sepia
 
-![](Screenshots/4_Sepia_applied.png)
+![](Res/Screenshots/4_Sepia_applied.png)
 
 5. Applied Mosaic 1650 by loading the rabbit.png again and Edit -> Mosaic -> enter 1650
 
-![](Screenshots/5_Mosaic_1650_applied.png)
+![](Res/Screenshots/5_Mosaic_1650_applied.png)
 
 6. Generated Cross Stitch from original rabbit.png by loading rabbit.png again and Generate -> Cross Stitch -> enter 30
 
-![](Screenshots/6-1_Cross_Stitch_30.png)
+![](Res/Screenshots/6-1_Cross_Stitch_30.png)
 
 7. Generated Cross Stitch from original rabbit.png by loading rabbit.png again and Generate -> Cross Stitch -> enter 100
 
-![](Screenshots/6-2_Cross_Stitch_100.png)
+![](Res/Screenshots/6-2_Cross_Stitch_100.png)
 
 8. Click one of the pattern pixel and change the dmc color to something else or make it empty
 
-![](Screenshots/7_Dmc_Swap_Window.png)
+![](Res/Screenshots/7_Dmc_Swap_Window.png)
 
 9. Each process will display a pop-up message guiding what is happening
 
-![](Screenshots/8_User_Friendly_Window.png)
+![](Res/Screenshots/8_User_Friendly_Window.png)
 
 
 # Design/Model Changes
